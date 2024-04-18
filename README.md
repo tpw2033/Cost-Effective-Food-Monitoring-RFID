@@ -33,7 +33,7 @@ The screenshots below should help give a good look at how this project works on 
 
 # Resources Utilized
 
-The RFID decoding is heavily based upon the work of this repository, pared down to only decode GTIN/Expiration Date from a hexadecimal value:
+The RFID decoding algorithm is heavily based upon the work of this repository, pared down to only decode GTIN/Expiration Date from a hexadecimal value:
 https://github.com/Obscure2020/SaladMan/blob/main/Main.java 
 
 Additionally, the following resources were used to get information on formatting, setup, and general procedures:
