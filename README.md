@@ -30,3 +30,22 @@ The screenshots below should help give a good look at how this project works on 
     <img src="https://github.com/tpw2033/Cost-Effective-Food-Monitoring-RFID/blob/main/Screenshots/aiRecipe.jpg" width=25% height=25%>
     <img src="https://github.com/tpw2033/Cost-Effective-Food-Monitoring-RFID/blob/main/Screenshots/aiRecipeCustomized.jpg" width=25% height=25%>
 </div>
+
+# Resources Utilized
+
+The RFID decoding is heavily based upon the work of this repository, pared down to only decode GTIN/Expiration Date from a hexadecimal value:
+https://github.com/Obscure2020/SaladMan/blob/main/Main.java 
+
+Additionally, the following resources were used to get information on formatting, setup, and general procedures:
+
+* Preventing Wasted Food At Home, https://www.epa.gov/recycle/preventing-wasted-food-home
+* Radio Frequency Identification (RFID), https://www.fda.gov/radiation-emitting-products/electromagnetic-compatibility-emc/radio-frequency-identification-rfid
+* What is a GTIN?, https://www.gs1us.org/upcs-barcodes-prefixes/what-is-a-gtin
+* UPC Code GTIN-12, https://www.barcode.graphics/gtin-12/
+* Avery Dennison Monarch Tabletop Printer 2, https://printers.averydennison.com/content/dam/averydennison/rbis/global/printer/product-information/printers/ADTP2-product-information.pdf
+* GS1 US RFID Foodservice Implementation Guideline, https://gs1ca.org/gs1ca-components/documents/GS1US-Foodservice-RFID-Guideline.pdf
+* GS1 TDS 2.0 Information,  https://github.com/wrightedu/Make-IT-Wright-2023/tree/main/GS1%20TDS%202.0%20Information
+* UPCitemdb Documentation, https://www.UPCitemdb.com/wp/docs/main/development/responses/
+* Firebase Realtime Database, https://firebase.google.com/docs/database
+* How long would it take to crack your password?,  https://spycloud.com/blog/how-long-would-it-take-to-crack-your-password/ 
+
